@@ -1,4 +1,6 @@
 # Two-pass-Assembler
+
+[![Join the chat at https://gitter.im/Two-pass-Assembler/Lobby](https://badges.gitter.im/Two-pass-Assembler/Lobby.svg)](https://gitter.im/Two-pass-Assembler/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Designed a 32-bit ISA and implemented a two pass assembler using C code to demonstrate how assembly language computation occurs with the help of different sets of instructions and different addressing modes defined in ISA. It converted Assembly Language code into Machine Language code and then using the machine language code generated executed the program. 
 
 #MANUAL TO USE THE ISA
